@@ -1,0 +1,9 @@
+        <Task Type="TYPE_TASK_ENTER_NUM" Score="1">
+	        <Title/>
+	        <QuestionText>
+		        <PlainText></PlainText>
+	        </QuestionText>
+	        <InputNum>
+		        <Value></Value>
+	        </InputNum>
+        </Task>

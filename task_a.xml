@@ -1,0 +1,20 @@
+        <Task Type="TYPE_TASK_CHOICE_SINGLE" Score="1">
+          <Title/>
+          <QuestionText>
+            <PlainText></PlainText>
+          </QuestionText>
+          <Variants>
+            <VariantText CorrectAnswer="False">
+              <PlainText></PlainText>
+            </VariantText>
+            <VariantText CorrectAnswer="False">
+              <PlainText></PlainText>
+            </VariantText>
+            <VariantText CorrectAnswer="False">
+              <PlainText></PlainText>
+            </VariantText>
+            <VariantText CorrectAnswer="False">
+              <PlainText></PlainText>
+            </VariantText>
+          </Variants>
+        </Task>
